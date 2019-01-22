@@ -5,4 +5,4 @@ git is so hard to learn.
 test work or storage.
 switched to a new branch 'dev'.
 test branch.
-test complict.
+test ne complict.
